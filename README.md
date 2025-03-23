@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Hello there, I'm Dominik!
 
-<!--
-**sztorm84/sztorm84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👉 About me:
+- 💡 Future data analist and software engineer.
+- 🎓 Computer Science student at Military University of Technology, specializing in Systems Engineering.
+- 🏛️ Member of the Digitalization Committee of the WAT Student Union – working on tech solutions to improve student life.
+---
+🛠 Technologies and Languages:
+- C, C++, C#
+- Java
+- Python
+- Assembly
+- HTML, CSS
+- ASP.NET Core
+- Microsoft and Oracle Databases
+- Pytorch, Scikit-learn
+---
+📚 Currently learning:
+- Data analisys in Python
+- Neural networks and Natural Language Processing (NLP)
+---
+✉ How to find me?
+- Linkedin: [Dominik Bronisz](https://www.linkedin.com/in/dominik-bronisz)
+- E-mail: [Dominik.Bronisz1234@gmail.com](mailto:Dominik.Bronisz1234@gmail.com)
