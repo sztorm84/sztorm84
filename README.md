@@ -1,7 +1,7 @@
 ## 👋 Hello there, I'm Dominik!
 
 ### 👉 About me:
-- 💡 Future data analist and software engineer.
+- 💡 Software engineer.
 - 🎓 Computer Science student at Military University of Technology, specializing in Systems Engineering.
 - 🏛️ Member of the Digitalization Committee of the WAT Student Union – working on tech solutions to improve student life.
 ---
